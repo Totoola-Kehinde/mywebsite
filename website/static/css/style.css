@@ -1,0 +1,14 @@
+.bg-overlay{
+    background-image: url(img/gif/bg_gif3.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    color: #fff;
+    height: 450px;
+    padding-top: 50px;
+}
+
+@font-face{
+    font-family: SpaceMono-Bold;
+    src: url(css/fonts/SpaceMono-Bold.ttf);
+}
